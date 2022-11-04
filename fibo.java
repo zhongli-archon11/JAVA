@@ -1,5 +1,5 @@
 import java.io.*;
-class FibonacciExample1
+class fibo
 {  
 	public static void main(String args[])  
 	{    
